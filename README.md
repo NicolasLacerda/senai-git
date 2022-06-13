@@ -9,7 +9,7 @@ git init
 git status
 git add
 git add.
-git commit
+git commit -m
 git log
 git remote add origin
 git remote -v
